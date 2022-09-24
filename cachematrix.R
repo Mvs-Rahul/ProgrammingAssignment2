@@ -26,7 +26,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-## This is usedd to get the cache data
+## This is used to get the cache data
 
 cacheSolve <- function(x, ...)  ## gets Cache data
   {
